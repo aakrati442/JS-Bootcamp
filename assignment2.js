@@ -2,6 +2,6 @@ function calculateArea(length,width){
     const area=length*width;
     return area;
 }
-const length=12;
-const width=12;
+const length=4;
+const width=25;
 console.log(calculateArea(length,width));
